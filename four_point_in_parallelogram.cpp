@@ -34,7 +34,7 @@ int main() {
       yb=y4-y3;
       cout<<xa+xb+x3<<" "<<ya+yb+y3;
   }
-  else
+  else if(true)
   {
       double xa,xb,ya,yb;
       xa=x1-x2;
